@@ -14,7 +14,6 @@
         android:layout_width="match_parent"
         android:layout_height="500dp" />
 
-
     <!-- Circle indicator to show images -->
     <me.relex.circleindicator.CircleIndicator
         android:id="@+id/indicator"
